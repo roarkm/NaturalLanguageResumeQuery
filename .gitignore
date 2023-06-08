@@ -1,0 +1,11 @@
+
+# virtualenv
+.venv
+
+# for python-dotenv config
+.env
+
+# default persistence dir
+data
+
+*/**/__pycache__
